@@ -168,3 +168,4 @@ python main.py --keyword 맛집 --lat 36.636 --lng 127.4914 --max_list 4 --save_
 >>> 검색 결과는 현재 디렉토리 delicious.csv로 저장되었습니다.
 ```
 
+크롤러 메인 페이지로 이동 ([클릭](../))
